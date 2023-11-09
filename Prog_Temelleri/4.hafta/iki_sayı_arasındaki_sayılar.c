@@ -10,6 +10,7 @@ int main() {
         // Eger 1 yerine 2 ser artirmak isitoyrsaniz +=2 yapmaniz gerek.
         baslangic ++;
     }
+    
     printf("Dongu Sonu.");
     return 0;
 }
